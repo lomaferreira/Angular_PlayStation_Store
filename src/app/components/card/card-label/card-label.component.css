@@ -1,0 +1,17 @@
+.container_card_label {
+	position: absolute;
+	bottom: 90px;
+	right: 0;
+}
+.card_label_content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #0d0d0dd2;
+	color: white;
+	font-size: 12px;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-weight: bold;
+	height: 30px;
+	padding: 0 50px;
+}
